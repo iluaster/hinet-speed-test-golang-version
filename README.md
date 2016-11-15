@@ -5,7 +5,7 @@ Download a file from Hinet speed test server to measure your network speed in th
 
 Run command:
 
-go run hinet_speed_test.go
+go run hinet-speed-test.go
 
 Default test file size is 60MBytes. (test_060m.zip)
 
