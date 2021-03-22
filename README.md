@@ -1,7 +1,7 @@
 # hinet-speed-test-golang-version
 To measure your network speed.
 
-Download a file from Hinet speed test server to measure your network speed in the CLI.
+Download a file from the Hinet speed test server to measure your network speed in the CLI.
 
 Run command:
 
